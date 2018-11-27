@@ -17,5 +17,5 @@ $ go run server.go
 # Sample usage for clien.go
 
 ```sh
-$ go run clien.go
+$ go run client.go
 ```
