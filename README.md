@@ -24,9 +24,6 @@ $ go run server.go
 ```sh
 $ go run client.go
 ```
-<<<<<<< HEAD
 
 Notes: Evans cli ref by https://github.com/ktr0731/evans
 for the connect on cli 
-=======
->>>>>>> 86f4ff10526aacfefc039540cd471c7516e16925
